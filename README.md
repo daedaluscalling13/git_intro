@@ -1,1 +1,2 @@
-# git_intro Kevin Kibler
+Kevin Kibler
+kiblerke@oregonstate.edu
